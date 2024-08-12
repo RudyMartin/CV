@@ -7,7 +7,7 @@ realrudymartin@gmail.com
 
 ### **Professional Summary**
 
-Agile Data Science professional with over 15 years of experience in developing, deploying, and optimizing machine learning models and AI solutions across on-prem and cloud platforms, particularly in Google Cloud environments. Deep expertise in statistics, model building, and machine learning pipelines, combined with a strong background in Big Data Analytics and Digital Transformation projects. Proven track record of collaborating with cross-functional teams to architect scalable AI/ML solutions, optimize deployment processes, and drive digital innovation for enterprise clients.
+Agile Data Science professional with over 15 years of experience in developing, deploying, and optimizing machine learning models, including Large Language Models (LLMs) and AI solutions across on-prem and cloud platforms, particularly in Google Cloud environments. Deep expertise in statistics, model building, and machine learning pipelines, combined with a strong background in Big Data Analytics and Digital Transformation projects. Proven track record of collaborating with cross-functional teams to architect scalable AI/ML solutions, optimize deployment processes, and drive digital innovation for enterprise clients.
 
 ### **Expertise**
 
@@ -22,6 +22,7 @@ Agile Data Science professional with over 15 years of experience in developing, 
 - **Natural Language Processing (NLP)**
 - **Graph Neural Networks**
 - **Version Control (GitHub)**
+- **Large Language Models (LLMs)**
 
 ### **Skills**
 
@@ -43,9 +44,9 @@ Agile Data Science professional with over 15 years of experience in developing, 
 - Developed custom algorithms/pipelines based on statistical analysis to enhance customer interactions and business outcomes.
 - Analyzed and processed complex data sets using advanced querying, visualization, and analytics tools.
 - Utilized Python, R, SAS for ETL scripting and statistical analysis, leveraging AutoML, Random Forest, XGBoost, and Deep Learning.
-- Deployed topic modeling and text analytics for customer sentiment analysis.
 - Conducted data engineering using Hadoop, Teradata, MS SQL, Oracle.
 - Served as SME for large Google Cloud migration projects from Teradata to BigQuery.
+- Utilized LLMs for advanced natural language processing tasks, improving customer sentiment analysis and automated text generation.
 
 **Lead Data Analyst**  
 *Coherent | Santa Clara, CA | 10/2016 to 12/2016*  
@@ -65,7 +66,7 @@ Agile Data Science professional with over 15 years of experience in developing, 
 
 ### **Formal Education**
 
-- **Artificial Intelligence and Digital Transformation** - Stanford University School of Engineering, Stanford, CA
+- **Artificial Intelligence and Digital Transformation Courses** - Stanford University School of Engineering, Stanford, CA
 - **MBA | Finance** - Kellogg School of Management at Northwestern University, Evanston, IL
 - **BA | Economics** - DePaul University, Chicago, IL
 
@@ -80,7 +81,7 @@ Agile Data Science professional with over 15 years of experience in developing, 
 
 ### **Recent AI/ML Projects**
 
-- **Deployed an OpenAI-based chatbot** on a blockchain-supported Akash network, enabling decentralized, secure conversational AI.
+- **Deployed Large Language Models (LLMs) using OpenAI-based chatbot** on a blockchain-supported Akash network, enabling decentralized, secure conversational AI.
 - **Developed a POC for Text2SQL Retrieval-Augmented Generation (RAG)**, optimizing Teradata SQL queries for GA4 data to streamline data analysis and reporting.
 - **Implemented Object Recognition using VisionAI, OpenCV, and Thonny** to create gesture-based signals that interact with a game, enhancing user engagement.
 - **Created a Multi-Modal Langchain RAG system** that integrates both text and charts from multiple annual reports, providing comprehensive data insights for financial analysis.
