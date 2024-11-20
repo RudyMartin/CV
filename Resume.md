@@ -3,7 +3,8 @@ Madison, WI 53701
 ‪707-690-0170‬
 
 rudy@nextshiftconsulting.com
-####[ **Linkedin Profile](https://www.linkedin.com/in/rudymartin/)**
+
+####**[Linkedin Profile](https://www.linkedin.com/in/rudymartin/)**
 ---
 
 ### **Professional Summary**
