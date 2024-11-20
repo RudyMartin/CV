@@ -52,18 +52,19 @@ Business Intelligence: 10+ years converting large data sets into actionable insi
 2 years providing data and machine learning services to tech company for marketing.
 Improved lead generation by 18% for a leading network security and testing hardware manufacturer:
 - Used machine learning algorithms that optimized user engagement on a 5,000-page website.
-- Applied predictive analytics and NLP techniques to enhance online content quality and optimize network traffic analysis across a complex of multilingual sites. Used R and Python.
-- Participated in requirements meetings to understand business needs.
-- Utilized data visualization tools to effectively communicate business insights, enhance site reliability, and ensure data quality by identifying and addressing inconsistencies and errors in datasets.
-- Experience working with Azure, and AWS services.
+- Applied predictive analytics and NLP techniques to enhance online content quality and optimize network traffic analysis across a complex of multilingual sites.
+- Participated in requirements meetings to coordinate marketing campaigns across different channels, or improving marketing tech workflows.
+- Integrated HubSpot and Salesforce lead forms.
+- Developed a Looker dashboard with data sourced from Google Analytics to effectively communicate business insights, enhance site reliability, and ensure data quality by identifying and addressing inconsistencies and errors in datasets.
+- Experience working with Azure and AWS services.
 
 
 **Team Lead / Analyst**  
 *Acamar Global | West Palm Beach, FL | 07/2007 to 04/2015*  
 8 years providing quantitative data and market research services to financial and publishing firms:
-Led development and deployment of models for time-series analysis and financial data modeling, optimizing performance for large multi-billion institutional portfolios, while playing a key role in pre-sales efforts to generate business opportunities.
-Managed cross-functional teams in architecting, implementing, and continuously improving scalable solutions on cloud platforms, enhancing trade signal generation and delivering data-driven market analysis that informed strategic decisions for investment companies.
-Worked with data clients including Citadel, Two Sigma, and other quant hedge funds.
+- Led development and deployment of models for time-series analysis and financial data modeling, optimizing performance for large multi-billion institutional portfolios, while playing a key role in pre-sales efforts to generate business opportunities.
+- Managed cross-functional teams in architecting, implementing, and continuously improving scalable solutions on cloud platforms, enhancing trade signal generation and delivering data-driven market analysis that informed strategic decisions for investment companies.
+- Worked with data clients including Citadel, Two Sigma, and other quant hedge funds.
 
 
 ### **Education**
