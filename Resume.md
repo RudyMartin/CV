@@ -71,7 +71,7 @@ Improved lead generation by 18% for a leading network security and testing hardw
 
 - **Post-grad | Artificial Intelligence and Digital Transformation** - Stanford University School of Engineering, Stanford, CA
 - **MBA | Finance** - Kellogg School of Management at Northwestern University, Evanston, IL
-- **BS | Computer Science ** - DePaul University, Chicago, IL
+- **BS | Computer Science** - DePaul University, Chicago, IL
 
 ### **Certifications**
 
