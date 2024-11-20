@@ -1,6 +1,6 @@
 **Rudy Martin**  
-San Francisco, CA 94102  
-617-869-4992  
+Madison, WI 53701  
+‪(707) 690-0170‬
 realrudymartin@gmail.com
 
 ---
