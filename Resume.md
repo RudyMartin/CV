@@ -59,7 +59,7 @@ Improved lead generation by 18% for a leading network security and testing hardw
 - Experience working with Azure and AWS services.
 
 
-**Team Lead / Analyst**  
+**Director of Quantitative Research**  
 *Acamar Global | West Palm Beach, FL | 07/2007 to 04/2015*  
 8 years providing quantitative data and market research services to financial and publishing firms:
 - Led development and deployment of models for time-series analysis and financial data modeling, optimizing performance for large multi-billion institutional portfolios, while playing a key role in pre-sales efforts to generate business opportunities.
