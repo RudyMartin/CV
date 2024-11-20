@@ -1,7 +1,8 @@
 **Rudy Martin**  
 Madison, WI 53701  
 ‪707-690-0170‬
-realrudymartin@gmail.com
+
+rudy@nextshiftconsulting.com
 
 ---
 
