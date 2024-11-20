@@ -22,12 +22,12 @@ Software Development & Tools: Version Control (GitHub), Automation (MLOps)
 
 ### **Skills**
 
-Statistical Data Analysis: Specialized in statistical data analysis using Python, Spark, R, and SAS/JMP from ideation to production, including migrations to Google Cloud Platform.
-Big Data & Engineering: Extensive experience in data engineering, data warehousing, data lakes, ETL/ELT, and big data technologies like Hadoop, Teradata, Oracle, and Google BigQuery, with strong SQL performance tuning and complex scripting skills.
-Machine Learning & AI: Hands-on experience with Anomaly Detection, Survival Analysis, NLP, Sentiment Classification, Funnel Analysis, and Computer Vision (image classification, object detection, gesture recognition).
-Cloud Computing & MLOps: Proficient in using Google Cloud Platform (GCP) services such as Cloud Storage, AI Platform, Cloud Functions, and Vertex AI for scalable storage solutions, model training, deployment, and serverless execution. 2+ years of MLOps experience with tools like GCP Vertex AI, H2o.ai, DataRobot, and MongoDB.
-Leadership & Mentorship: Over 8 years managing teams in the US and India, serving as an SME partner on mission-critical projects. Mentor to data science camp students over the last 3 years.
-Business Intelligence: 10+ years converting large data sets into actionable insights; proficient in various BI tools with an agnostic approach to tool selection.
+- Statistical Data Analysis: Specialized in statistical data analysis using Python, Spark, R, and SAS/JMP from ideation to production, including migrations to Google Cloud Platform.
+- Big Data & Engineering: Extensive experience in data engineering, data warehousing, data lakes, ETL/ELT, and big data technologies like Hadoop, Teradata, Oracle, and Google BigQuery, with strong SQL performance tuning and complex scripting skills.
+- Machine Learning & AI: Hands-on experience with Anomaly Detection, Survival Analysis, NLP, Sentiment Classification, Funnel Analysis, and Computer Vision (image classification, object detection, gesture recognition).
+- Cloud Computing & MLOps: Proficient in using Google Cloud Platform (GCP) services such as Cloud Storage, AI Platform, Cloud Functions, and Vertex AI for scalable storage solutions, model training, deployment, and serverless execution. 2+ years of MLOps experience with tools like GCP Vertex AI, H2o.ai, DataRobot, and MongoDB.
+- Leadership & Mentorship: Over 8 years managing teams in the US and India, serving as an SME partner on mission-critical projects. Mentor to data science camp students over the last 3 years.
+- Business Intelligence: 10+ years converting large data sets into actionable insights; proficient in various BI tools with an agnostic approach to tool selection.
 
 
 ### **Work History**
